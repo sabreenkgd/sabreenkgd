@@ -32,9 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/>
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="42" height="42"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="42" height="42"/> -->
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42"/> -->
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42"/> -->
   <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse" width="42" height="42"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="42" height="42"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="42" height="42"/>
